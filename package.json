@@ -1,0 +1,26 @@
+{
+  "name": "robotic_hoover",
+  "version": "1.0.0",
+  "description": "> A test program that navigates an imaginary robotic hoover through an imaginary room",
+  "main": "Hoover.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breycarr/robotic_hoover.git"
+  },
+  "author": "breycarr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breycarr/robotic_hoover/issues"
+  },
+  "homepage": "https://github.com/breycarr/robotic_hoover#readme",
+  "dependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
